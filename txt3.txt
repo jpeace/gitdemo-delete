@@ -1,2 +1,6 @@
 here's some branch1 work
-conflict2conflict1
+conflict2
+
+finishing 
+
+conflict1
